@@ -1,4 +1,4 @@
 # Matrix-Calculator
-A project done for university Java class.
-GUI created with Swing library.
-The calculator can add, subtract and multiply matrices.
+A project done for university Java course.</br>
+GUI created with Swing library.</br>
+The calculator can add, subtract and multiply matrices.</br>
